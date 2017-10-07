@@ -10,6 +10,7 @@ texte de ma page
 
 {% for page in site.pages %}
   <ul>
-    <li>{{ page.title }}</li>
+    <li>{{ page.contact }}</li>
+    <li>{{ page.autrepage }}</li>
   </ul>
 {% endfor %}
