@@ -1,6 +1,7 @@
 ---
 title: page d'accueil
 description: ma déscription
+contact: contact
 ---
 
 # Titre de ma page
