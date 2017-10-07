@@ -2,6 +2,7 @@
 title: page d'accueil
 description: ma déscription
 contact: contact
+autrepage: autrepage
 ---
 
 # Titre de ma page
