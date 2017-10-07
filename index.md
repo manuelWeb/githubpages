@@ -1,8 +1,9 @@
 ---
-title: "Mon titre"
-author:"Bart Simpson"
-meta:"Springfield"
+title: page d'accueil
+description: ma déscription
 ---
-# Accueil :: variable
 
-### Site statique
+# Titre de ma page
+
+texte de ma page
+{{ site.title }} 
