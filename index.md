@@ -14,6 +14,8 @@ texte de ma page
     <li>
       <a href="{{ page.contact }} ">{{ page.contact }}</a>
     </li>
-    <li>{{ page.autrepage.md }}</li>
+    <li>
+      <a href="{{ page.autrepage }}">{{ page.autrepage }}</a>
+    </li>
   </ul>
 {% endfor %}
